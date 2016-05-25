@@ -1,0 +1,13 @@
+compile
+run
+ls
+run
+compile
+run hello.class
+cd bin
+exit
+compilr
+compile
+run
+exiit
+exit
