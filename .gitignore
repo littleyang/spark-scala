@@ -9,6 +9,7 @@ bin/
 *.apk
 *.swap
 *.xsl
+time-spark/out
 
 .idea
 *.war
